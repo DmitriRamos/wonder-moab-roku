@@ -31,6 +31,7 @@ sub main(obj)
     else if display_res.name = "SD" then
         scene.backgroundUri = "pkg:/images/background_sd.png"
     end if
+
     screen.Show()
 
     while(true)

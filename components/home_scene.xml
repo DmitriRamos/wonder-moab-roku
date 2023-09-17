@@ -6,5 +6,11 @@
         id="category_screen"
         visible="true"
         translation="[0, 0]" />
+        <weather_screen
+        id="weather_screen"
+        visible="true"
+        translation="[0, 0]" 
+        />
     </children>
+
 </component>

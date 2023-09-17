@@ -12,17 +12,12 @@
         visible="true"
         />
         <Poster
-  id="weather_header"
-  uri="pkg:/images/weather_graphic.png"
-  width="400.0"
-  height="500.0"
-  translation="[100,-200]" />
-        <Poster
   id="category_poster"
   uri="pkg:/images/cat_logo.png"
   width="400.0"
   height="500.0"
   translation="[0,-165]" />
+  
         <LabelList
         id="category_list"
         translation="[25, 200]"
@@ -38,5 +33,7 @@
             <ContentNode title = "FOOD AND DRINK"/>
           </ContentNode>
         </LabelList>
+        
+
     </children>
 </component>

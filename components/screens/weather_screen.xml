@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="weather_screen" extends="Group">
+    <script type="text/brightscript" uri="weather_screen.brs" />
+    <children>
+        <Label
+        id="weather_header"
+        height="44"
+        width="0"
+        text = "WEATHER"
+        horizAlign = "left"
+        vertAlign = "center"
+        translation="[550,30]"
+        >
+        <Font role = "font" uri = "pkg:/fonts/versailles.ttf" size = "100"/>
+        </Label>
+        <Label
+        id="temp_label"
+        height="44"
+        width="0"
+        horizAlign = "left"
+        vertAlign = "center"
+        translation="[550,250]"
+        />
+        <Label
+        id="weekly_label"
+        height="44"
+        width="0"
+        horizAlign = "left"
+        vertAlign = "center"
+        translation="[550,350]"
+        >
+        <Font role = "font" uri = "pkg:/fonts/versailles.ttf" size = "45"/>
+        </Label>
+    </children>
+
+</component>
