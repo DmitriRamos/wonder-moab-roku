@@ -6,7 +6,7 @@ end function
 
 function request()
     'Locate weather_screen component
-    url = "https://api.weather.gov/gridpoints/GJT/121,164/forecast"
+    url = "https://api.weather.gov/gridpoints/GJT/120,163/forecast"
     'Define the weather API URL
 
     'Message port for handling requests
@@ -51,8 +51,8 @@ function request()
                         'Update label
 
                         weekData = ""
-                        for i = 2 to 10 step 2
-                            weekData = weekData + "|" + dayData[i]["name"] + Str(dayData[i]["temperature"]) + "F"
+                        for i = 1 to 12 step 2
+                            weekData = weekData + "| " + dayData[i]["name"] + Str(dayData[i]["temperature"]) + "°F" + " | " + "Night" + Str(dayData[i + 1]["temperature"]) + "°F" + Chr(10)
                         end for
                         m.top.response = "Current Tempurature: " + temperatureString + temperatureUnit
                         m.top.response_two = weekData

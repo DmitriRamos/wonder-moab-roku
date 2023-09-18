@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Desert Bistro",
+    "description": "Desert Bistro offers a unique dining experience with a focus on locally sourced ingredients. Enjoy dishes like Utah trout and ribeye steak while taking in stunning views of the red rock landscape. Expect to spend approximately $30 to $50 per person.",
+    "pricing_range": "$$ - $$$",
+    "cuisine_type": "Southwestern",
+    "picture": "https://example.com/desert_bistro.jpg"
+  },
+  {
+    "title": "Twisted Sistas Café",
+    "description": "Twisted Sistas Café is a charming spot for breakfast and lunch. Their menu features delicious sandwiches, salads, and specialty coffees. Prices are reasonable, with most items under $15.",
+    "pricing_range": "$",
+    "cuisine_type": "Café",
+    "picture": "https://example.com/twisted_sistas.jpg"
+  },
+  {
+    "title": "Eklecticafe",
+    "description": "Eklecticafe is known for its eclectic menu, offering a range of options from hearty breakfasts to Mediterranean-inspired dishes. Prices are budget-friendly, with most meals costing $10 to $15.",
+    "pricing_range": "$",
+    "cuisine_type": "Mediterranean",
+    "picture": "https://example.com/eklecticafe.jpg"
+  },
+  {
+    "title": "Quesadilla Mobilla",
+    "description": "Quesadilla Mobilla is a food truck specializing in mouthwatering quesadillas. Try their creative and delicious quesadilla combinations, priced at around $10 to $12 each.",
+    "pricing_range": "$",
+    "cuisine_type": "Food Truck",
+    "picture": "https://example.com/quesadilla_mobilla.jpg"
+  },
+  {
+    "title": "Moab Brewery",
+    "description": "Moab Brewery is a local favorite known for its craft beers and pub fare. Enjoy burgers, sandwiches, and pizzas in a casual atmosphere. Prices range from $10 to $20 per person.",
+    "pricing_range": "$$",
+    "cuisine_type": "Brewpub",
+    "picture": "https://example.com/moab_brewery.jpg"
+  },
+  {
+    "title": "Miguel's Baja Grill",
+    "description": "Miguel's Baja Grill offers a taste of Baja California with their fish tacos, burritos, and margaritas. Prices are reasonable, with most dishes under $15.",
+    "pricing_range": "$",
+    "cuisine_type": "Mexican",
+    "picture": "https://example.com/miguels_baja_grill.jpg"
+  },
+  {
+    "title": "Jeffrey's Steakhouse",
+    "description": "Jeffrey's Steakhouse is the place to go for a classic steak dinner. Choose from a selection of high-quality steaks and enjoy a fine dining experience. Prices range from $30 to $50 per person.",
+    "pricing_range": "$$ - $$$",
+    "cuisine_type": "Steakhouse",
+    "picture": "https://example.com/jeffreys_steakhouse.jpg"
+  },
+  {
+    "title": "Sabaku Sushi",
+    "description": "Sabaku Sushi offers fresh and creative sushi rolls in the heart of Moab. Try their specialty rolls and sashimi. Sushi prices vary, but expect to spend around $15 to $25 per person.",
+    "pricing_range": "$$",
+    "cuisine_type": "Sushi",
+    "picture": "https://example.com/sabaku_sushi.jpg"
+  },
+  {
+    "title": "Moab Diner",
+    "description": "Moab Diner is a classic American diner serving up breakfast and comfort food. Enjoy pancakes, burgers, and milkshakes at affordable prices, typically under $10 per dish.",
+    "pricing_range": "$",
+    "cuisine_type": "American",
+    "picture": "https://example.com/moab_diner.jpg"
+  },
+  {
+    "title": "Sorrel River Grill",
+    "description": "Sorrel River Grill offers riverside dining with scenic views. Their menu features upscale American cuisine with options like duck breast and filet mignon. Prices range from $30 to $50 per person.",
+    "pricing_range": "$$ - $$$",
+    "cuisine_type": "American",
+    "picture": "https://example.com/sorrel_river_grill.jpg"
+  }
+]

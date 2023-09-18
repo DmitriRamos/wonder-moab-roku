@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Red Cliffs Lodge",
+    "description": "Nestled along the banks of the Colorado River, Red Cliffs Lodge is a picturesque retreat offering rustic charm and breathtaking views. The lodge features comfortable accommodations with Western decor, an on-site winery, and outdoor adventures like horseback riding and river rafting. Enjoy dining with a view at the Cowboy Grill.",
+    "pricing_range": "$$ - $$$",
+    "accommodation_type": "Lodge",
+    "picture": ""
+  },
+  {
+    "title": "Sorrel River Ranch Resort and Spa",
+    "description": "Experience luxury in the heart of Moab's red rock country at Sorrel River Ranch Resort and Spa. This upscale resort boasts spacious suites and riverside villas with stunning views. Relax at the spa, dine at The River Grill, and explore nearby Arches and Canyonlands National Parks.",
+    "pricing_range": "$$$ - $$$$",
+    "accommodation_type": "Resort",
+    "picture": ""
+  },
+  {
+    "title": "Moab Springs Ranch",
+    "description": "Moab Springs Ranch is a family-friendly oasis with vacation homes set amid lush gardens and natural springs. Enjoy fully-equipped accommodations, private patios, and a swimming pool. It's the perfect base for exploring the area's outdoor wonders.",
+    "pricing_range": "$$ - $$$",
+    "accommodation_type": "Vacation Home",
+    "picture": ""
+  },
+  {
+    "title": "Aarchway Inn",
+    "description": "Aarchway Inn offers comfortable lodging with a southwestern flair. Relax in spacious rooms, take a dip in the pool, and savor complimentary breakfast. The inn's courtyard provides a tranquil escape, and it's just minutes away from the area's attractions.",
+    "pricing_range": "$ - $$",
+    "accommodation_type": "Inn",
+    "picture": ""
+  },
+  {
+    "title": "Under Canvas Moab",
+    "description": "For a unique experience, stay at Under Canvas Moab. This glamping site offers safari-style tents with comfortable amenities near Arches National Park. Enjoy stargazing by the campfire, gourmet dining, and guided adventures in the desert.",
+    "pricing_range": "$$ - $$$",
+    "accommodation_type": "Glamping",
+    "picture": ""
+  },
+  {
+    "title": "Hyatt Place Moab",
+    "description": "Modern comfort meets desert beauty at Hyatt Place Moab. Relax in stylish rooms with mountain views, take a dip in the pool, and enjoy the 24/7 dining options. It's a great choice for both leisure and business travelers.",
+    "pricing_range": "$$ - $$$",
+    "accommodation_type": "Hotel",
+    "picture": ""
+  },
+  {
+    "title": "Red Stone Inn",
+    "description": "Red Stone Inn offers budget-friendly accommodations with a prime location in downtown Moab. The inn's comfortable rooms, outdoor pool, and friendly staff make it a convenient and affordable choice for your Moab adventure.",
+    "pricing_range": "$ - $$",
+    "accommodation_type": "Inn",
+    "picture": ""
+  },
+  {
+    "title": "Kokopelli Lodge & Suites",
+    "description": "Experience warm hospitality at Kokopelli Lodge & Suites. This cozy lodge offers comfortable rooms, a relaxing courtyard with a hot tub, and easy access to Moab's attractions. Start your day with a complimentary breakfast.",
+    "pricing_range": "$ - $$",
+    "accommodation_type": "Lodge",
+    "picture": ""
+  },
+  {
+    "title": "Sunflower Hill Inn",
+    "description": "Sunflower Hill Inn is a charming bed and breakfast surrounded by beautiful gardens. Stay in well-appointed rooms, savor gourmet breakfasts, and unwind in the outdoor hot tub. It's a romantic retreat in Moab's red rock paradise.",
+    "pricing_range": "$$ - $$$",
+    "accommodation_type": "Bed & Breakfast",
+    "picture": ""
+  },
+  {
+    "title": "Moab Valley RV Resort & Campground",
+    "description": "Calling all camping enthusiasts! Moab Valley RV Resort & Campground offers RV and tent sites with full hookups and amenities. Enjoy the outdoor pool, convenience store, and proximity to Moab's outdoor adventures.",
+    "pricing_range": "$ - $$",
+    "accommodation_type": "Campground",
+    "picture": ""
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "activities": [
+    {
+      "title": "Arches National Park",
+      "description": "Explore over 2,000 natural stone arches.",
+      "type": "National Park",
+      "picture": ""
+    },
+    {
+      "title": "Canyonlands National Park",
+      "description": "Discover the deep canyons and mesas of this park.",
+      "type": "National Park",
+      "picture": ""
+    },
+    {
+      "title": "Mountain Biking",
+      "description": "Ride the famous slickrock trails of Moab.",
+      "type": "Outdoor Adventure",
+      "picture": ""
+    },
+    {
+      "title": "Jeep Tours",
+      "description": "Take an off-road tour of Moab's rugged terrain.",
+      "type": "Outdoor Adventure",
+      "picture": ""
+    },
+    {
+      "title": "Hiking",
+      "description": "Hike scenic trails with breathtaking views.",
+      "type": "Outdoor Adventure",
+      "picture": ""
+    },
+    {
+      "title": "Rafting on the Colorado River",
+      "description": "Experience thrilling white-water rafting.",
+      "type": "Water Adventure",
+      "picture": ""
+    },
+    {
+      "title": "Hot Air Balloon Ride",
+      "description": "Soar above the red rock landscape at sunrise.",
+      "type": "Adventure",
+      "picture": ""
+    },
+    {
+      "title": "Stargazing",
+      "description": "Enjoy stunning night skies in Moab's dark desert.",
+      "type": "Nature",
+      "picture": ""
+    },
+    {
+      "title": "Rock Climbing",
+      "description": "Climb the unique sandstone formations.",
+      "type": "Outdoor Adventure",
+      "picture": ""
+    },
+    {
+      "title": "Visit Dead Horse Point State Park",
+      "description": "Take in panoramic views of the Colorado River.",
+      "type": "State Park",
+      "picture": ""
+    }
+  ]
+}

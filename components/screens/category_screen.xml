@@ -27,10 +27,10 @@
         
         >
         <ContentNode id = "categories" role = "content">
-            <ContentNode title = "ACCOMODATIONS"/>
-            <ContentNode title = "ACTIVITIES"/>
-            <ContentNode title = "SIGHTS"/>
-            <ContentNode title = "FOOD AND DRINK"/>
+            <category_node title = "ACCOMODATIONS" url="pkg:/resources/accommodation.json"/>
+            <category_node title = "ACTIVITIES" url="pkg:/resources/activities.json"/>
+            <category_node title = "SIGHTS" url="pkg:/resources/"/>
+            <category_node title = "FOOD AND DRINK" url="pkg:/resources/food.json"/>
           </ContentNode>
         </LabelList>
         

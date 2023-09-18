@@ -10,6 +10,7 @@
         horizAlign = "left"
         vertAlign = "center"
         translation="[550,30]"
+        color = "0x000000ff"
         >
         <Font role = "font" uri = "pkg:/fonts/versailles.ttf" size = "100"/>
         </Label>
@@ -19,15 +20,21 @@
         width="0"
         horizAlign = "left"
         vertAlign = "center"
-        translation="[550,250]"
-        />
+        translation="[450,200]"
+        color = "0x000000ff"
+        >
+        <Font role = "font" uri = "pkg:/fonts/versailles.ttf" size = "45"/>
+        </Label>
+        
+        
         <Label
         id="weekly_label"
-        height="44"
-        width="0"
+        height="500"
+        width="900"
+        translation="[450,300]"
+        color= "0x000000ff"
         horizAlign = "left"
-        vertAlign = "center"
-        translation="[550,350]"
+        wrap="true"
         >
         <Font role = "font" uri = "pkg:/fonts/versailles.ttf" size = "45"/>
         </Label>
