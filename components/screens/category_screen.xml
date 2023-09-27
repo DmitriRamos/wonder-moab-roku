@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="category_screen" extends="Group">
     <script type="text/brightscript" uri="category_screen.brs" />
+    <interface>
+        <field id="category_selected" 
+        type="assocarray" 
+        alias="category_list.itemSelected"
+        />
+    </interface>
     <children>
         <Rectangle 
         id="cat_rectangle"
@@ -18,7 +24,7 @@
   height="500.0"
   translation="[0,-165]" />
   
-        <LabelList
+        <RadioButtonList
         id="category_list"
         translation="[25, 200]"
         itemSpacing="[0,50]"
@@ -27,12 +33,12 @@
         
         >
         <ContentNode id = "categories" role = "content">
-            <category_node title = "ACCOMODATIONS" url="pkg:/resources/accommodation.json"/>
-            <category_node title = "ACTIVITIES" url="pkg:/resources/activities.json"/>
-            <category_node title = "SIGHTS" url="pkg:/resources/"/>
-            <category_node title = "FOOD AND DRINK" url="pkg:/resources/food.json"/>
+            <category_node title = "ACCOMODATIONS" path="pkg:/resources/accommodation.json"/>
+            <category_node title = "ACTIVITIES" path="pkg:/resources/activities.json"/>
+            <category_node title = "SIGHTS" path="pkg:/resources/"/>
+            <category_node title = "FOOD AND DRINK" path="pkg:/resources/food.json"/>
           </ContentNode>
-        </LabelList>
+        </RadioButtonList>
         
 
     </children>
